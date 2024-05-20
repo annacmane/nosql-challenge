@@ -6,15 +6,21 @@ Please follow the following to run each program:
 1. Please add the whtire directory of "nosql-challenge" into your system in order for the following programs to run. 
     please ensure that you have the following folders and files:
     nosql-challenge
+   
         >Part One
+
             >NoSQL_setup_starter.ipynb
+
             >Resources
+
                 >establishments.json
+
             >Part Two
+
                 >NoSQL_analysis_starter.ipynb
 
-2. In folder "Part One", please use NoSQL_setup_starter.ipynb
-3. In folder "Part Two", please use NoSQL_analysis_starter.ipynb
+3. In folder "Part One", please use NoSQL_setup_starter.ipynb
+4. In folder "Part Two", please use NoSQL_analysis_starter.ipynb
 
 The program in step 1 is set up to download the file in Resources that will assist in running each program in Part One and Part Two.
 If program fails to do so, you can copy and paste the line in the first markdown cell of NoSQL_setup_starter.ipynb to load the file into the database. 
