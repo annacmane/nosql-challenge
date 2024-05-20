@@ -23,7 +23,7 @@ Please follow the following to run each program:
 4. In folder "Part Two", please use NoSQL_analysis_starter.ipynb
 
 The program in step 1 is set up to download the file in Resources that will assist in running each program in Part One and Part Two.
-If program fails to do so, you can copy and paste the line in the first markdown cell of NoSQL_setup_starter.ipynb to load the file into the database. 
+If program fails to do so, you can copy and paste the line in the first markdown cell of NoSQL_setup_starter.ipynb into your terminal to load the file into the database. 
 
 # Welcome to NoSQL 
 Instructions
